@@ -1,88 +1,52 @@
+![Gruvbox Header](https://via.placeholder.com/1200x300/282828/EBDBB2?text=Kevin+Anderson)
 <div align="center">
 
-```
-░██████╗░██████╗░██╗░░░██╗██╗░░░██╗██████╗░░█████╗░██╗░░██╗
-██╔════╝░██╔══██╗██║░░░██║██║░░░██║██╔══██╗██╔══██╗╚██╗██╔╝
-██║░░██╗░██████╔╝██║░░░██║╚██╗░██╔╝██████╦╝██║░░██║░╚███╔╝░
-██║░░╚██╗██╔══██╗██║░░░██║░╚████╔╝░██╔══██╗██║░░██║░██╔██╗░
-╚██████╔╝██║░░██║╚██████╔╝░░╚██╔╝░░██████╦╝╚█████╔╝██╔╝╚██╗
-░╚═════╝░╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░╚═════╝░░╚════╝░╚═╝░░╚═╝
-```
+## **About Me**
 
-</div>
+<div>
 
-<!-- Gruvbox color reference for this theme:
-dark0_hard  #1d2021  dark0       #282828  dark0_soft   #32302f
-dark1       #3c3836  dark2       #504945  dark3        #665c54
-dark4       #7c6f64  gray        #928374  light4       #a89984
-light3      #bdae93  light2      #d5c4a1  light1       #ebdbb2
-light0_soft #f2e5bc  light0      #fbf1c7  light0_hard  #f9f5d7
--->
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/wave.gif" width="30px" height="30px"> Welcome to my digital workspace
-</h1>
+[![Portfolio](https://img.shields.io/badge/Portfolio-282828?style=for-the-badge&logo=Astro&labelColor=3C3836&logoColor=B8BB26&color=282828)](https://Kevin-J-Anderson.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&labelColor=3C3836&logoColor=B8BB26&color=282828)](https://linkedin.com/in/kevinrouse)
+[![Email](https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&labelColor=3C3836&logoColor=B8BB26&color=282828)](mailto:kevinrouse105@gmail.com)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Editor-Neovim-98971a?style=flat-square&logo=neovim&logoColor=white&color=98971a">
-  <img src="https://img.shields.io/badge/Lang-Rust-fb4934?style=flat-square&logo=rust&logoColor=white&color=fb4934">
-  <img src="https://img.shields.io/badge/Shell-Bash-b8bb26?style=flat-square&logo=gnu-bash&logoColor=white&color=b8bb26">
-</div>
+## **GitHub Stats**
 
-## 🌿 About Me
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Barthmalemew&show_icons=true&theme=gruvbox&bg_color=282828&title_color=ebdbb2&text_color=d5c4a1&icon_color=fe8019&hide_border=true" alt="GitHub Stats" width="100%"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Barthmalemew&theme=gruvbox&bg_color=282828&ring=fe8019&fire=fe8019&currStreakLabel=fe8019&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barthmalemew&theme=gruvbox&bg_color=282828&title_color=ebdbb2&color=d5c4a1&line=fe8019&point=fe8019&hide_border=true" alt="Activity Graph" width="100%"/>
+</td>
+</tr>
+</table>
 
-```rust
-let developer = Developer {
-    name: "Your Name",
-    role: "Developer & Open Source Enthusiast",
-    current_focus: "Building elegant solutions",
-    interests: vec!["Systems Programming", "CLI Tools", "Unix Philosophy"],
-};
-```
+## **Past Experience With:**
+![C](https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&labelColor=3C3836&logoColor=B8BB26&color=282828)
+![C++](https://img.shields.io/badge/C++-282828?style=for-the-badge&logo=cplusplus&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![Java](https://img.shields.io/badge/Java-282828?style=for-the-badge&logo=openjdk&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![Python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![C#](https://img.shields.io/badge/C%23-282828?style=for-the-badge&logo=dotnet&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![Lua](https://img.shields.io/badge/Lua-282828?style=for-the-badge&logo=lua&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-282828?style=for-the-badge&logo=html5&labelColor=3C3836&logoColor=B8BB26&color=282828)
+![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&labelColor=3C3836&logoColor=B8BB26&color=282828)
+![Neovim](https://img.shields.io/badge/Neovim-282828?style=for-the-badge&logo=neovim&labelColor=3C3836&logoColor=B8BB26&color=282828)
+![Unity](https://img.shields.io/badge/Unity-282828?style=for-the-badge&logo=unity&labelColor=3C3836&logoColor=B8BB26&color=282828)
+![Linux](https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![IntelliJ](https://img.shields.io/badge/IntelliJ-282828?style=for-the-badge&logo=intellijidea&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-282828?style=for-the-badge&logo=springboot&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![Wireshark](https://img.shields.io/badge/Wireshark-282828?style=for-the-badge&logo=wireshark&labelColor=3C3836&logoColor=B8BB26&color=282828)
+![Love2d](https://img.shields.io/badge/Love2d-282828?style=for-the-badge&logo=lua&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![RHEL](https://img.shields.io/badge/RHEL-282828?style=for-the-badge&logo=redhat&labelColor=3C3836&logoColor=B8BB26&color=282828) 
+![Spring](https://img.shields.io/badge/Spring-282828?style=for-the-badge&logo=spring&labelColor=3C3836&logoColor=B8BB26&color=282828)
+![Postgres](https://img.shields.io/badge/Postgres-282828?style=for-the-badge&logo=postgresql&labelColor=3C3836&logoColor=B8BB26&color=282828)
 
-## 🎨 Tech Palette
 
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| 🛠 Core | ![Rust](https://img.shields.io/badge/-Rust-fb4934?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-98971a?style=flat-square&logo=go&logoColor=white) |
-| 🖥 Shell | ![Bash](https://img.shields.io/badge/-Bash-b8bb26?style=flat-square&logo=gnu-bash&logoColor=white) ![Fish](https://img.shields.io/badge/-Fish-458588?style=flat-square&logo=fish&logoColor=white) |
-| 🌐 Web | ![Node.js](https://img.shields.io/badge/-Node.js-689d6a?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-d3869b?style=flat-square&logo=typescript&logoColor=white) |
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox"/>
-</div>
-
-## 🌟 Featured Projects
-
-```bash
-~/projects $ ls -la
-total 4
-drwxr-xr-x  2 user user 4096 Dec 11 10:00 .
-drwxr-xr-x 21 user user 4096 Dec 11 10:00 ..
--rw-r--r--  1 user user  ... Dec 11 10:00 project1
--rw-r--r--  1 user user  ... Dec 11 10:00 project2
--rw-r--r--  1 user user  ... Dec 11 10:00 project3
-```
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-458588?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-b16286?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/-Email-cc241d?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=98971a&style=flat-square">
 </div>

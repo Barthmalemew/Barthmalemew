@@ -1,4 +1,3 @@
-![Gruvbox Header](https://via.placeholder.com/1200x300/282828/EBDBB2?text=Kevin+Anderson)
 <div align="center">
 
 ## **About Me**
